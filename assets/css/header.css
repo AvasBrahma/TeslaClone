@@ -1,0 +1,24 @@
+
+header{
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    padding: 5px 20px;
+    font-family: 'M PLUS 1p', sans-serif;
+
+
+}
+a.logo{
+    height: 12px;
+    width: 100px;
+    color: #171a20;
+}
+header a{
+    color: #171a20;
+}
+header nav a{
+    text-decoration: none;
+    padding: 5px 10px;
+}
+header nav.center{
+    text-align: center;
+}
